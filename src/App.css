@@ -1,0 +1,30 @@
+.summary{
+  border-bottom: 2px solid black;
+}
+
+.summary button{
+position: absolute;
+right: 30px;
+margin-bottom: 10px;
+
+}
+
+label{
+  margin: 10px;
+}
+div {
+  margin: 10px;
+}
+.App{
+  border: 3px solid lightblue;
+}
+button{
+  color: yellow;
+  cursor: pointer;
+  margin: 10px;
+  border-radius: 10%;
+  background: transparent;
+  background-color: gray;
+  border-color: gray;
+  /* border: 0; */
+}
